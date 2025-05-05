@@ -1,2 +1,1 @@
 # DVD-Rental-Project
-```sql
